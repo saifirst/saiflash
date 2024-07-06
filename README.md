@@ -1,6 +1,8 @@
+![App_Icon_iPhone_3000px](https://github.com/saifirst/saiflash/assets/124555800/01cdff9b-3a09-4f3a-af04-4a4321a0021c)![App_Icon_iPhone_3000px](https://github.com/saifirst/saiflash/assets/124555800/96e54b88-75dc-4e5c-8e98-3e97714ad9c8)
+
 # Saiflash
 
-🚀 Excited to announce the launch of **Saiflash**, a flash card quiz app built with Flutter! 📱
+## 📍 Overview
 
 🔹 **Saiflash** is designed to make learning fun and interactive with a user-friendly interface and engaging quiz system. Whether you're prepping for exams or just love testing your knowledge, Saiflash has got you covered.
 
