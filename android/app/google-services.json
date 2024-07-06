@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077065175764",
+    "project_id": "flutter-saiflash-quiz-app",
+    "storage_bucket": "flutter-saiflash-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077065175764:android:6d1b217ad86640af366141",
+        "android_client_info": {
+          "package_name": "com.example.saiflash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBX9lwpU0wd8dVYf9w38Ln_hRFW9XRfW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
